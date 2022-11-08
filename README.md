@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-Hi, I’m @Nutella585 and I like to learn new stuff.
+Hi, I’m Andrew and I like to learn new stuff.
 
 I’m interested in QA Automation and Software Mobile & Web Development.
 
