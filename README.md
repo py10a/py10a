@@ -4,7 +4,7 @@ Hi, I’m Andrew and I like to learn new stuff.
 
 I’m interested in QA Automation, Mobile & Web Development.
 
-I’m currently learning JavaScripts, Swift, 
+I’m currently learning C/C++, Swift & JavaScripts.
 
 
 #### You may reach me by following links:
