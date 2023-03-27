@@ -2,7 +2,7 @@
 
 Hi, I’m Andrew and I like to learn new stuff.
 
-I’m interested in QA Automation and Software Mobile & Web Development.
+I’m interested in QA Automation, Mobile & Web Development.
 
 I’m currently learning JavaScripts, Swift, 
 
