@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing myself.<br>😄 I’m interested in QA Automation.<br>🌱 I’m currently learning C/C++ && Python.<br>
+🔭 I’m currently working on developing my skills.<br>😄 I’m interested in QA Automation & Mobile Development.<br>🌱 I’m currently learning C/C++ && Python.<br>
 
 
 ## 🌐 Socials:
