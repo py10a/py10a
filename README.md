@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing my skills.<br>😄 I’m interested in QA Automation & Mobile Development.<br>🌱 I’m currently learning Swift (UIKit, Foundation, Cocoa) and practising JS<br>
+🔭 I’m currently working on developing my skills.<br>😄 I’m interested in QA Automation & Mobile Development.<br>🌱 I’m currently learning Flutter & Dart.
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
