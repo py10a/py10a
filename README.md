@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me:
 
 - ✅ QA Automation Engineer by day, code wizard by night. (JavaScript)
-- 📱 Willing to become a Mobile Software Engineer. (Flutter)
+- 📱 Mobile Software Engineer. (Flutter, Swift)
 - 📕 Crafting UI/UX magic. (Figma, Photoshop)
 
 ## 💻 Tech Stack:
