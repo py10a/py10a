@@ -1,11 +1,3 @@
-<div align="center">
-  <img height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.piskelapp.com%2Fstatic%2Fresources%2Fhome%2Ffeatures%2Ffeature-open-source%402x.gif&f=1&nofb=1&ipt=ed6a3e16a50803b6443c46c8a2a0583f606599d6d5ee453bd8f8202ec0fe54fd&ipo=images"  />
-</div>
-
-<h6 align="center">Big Octo is WATCHING YOU!</h6>
-
-###
-
 <h2 align="left">🗣️ Language</h2>
 <p>Section showcases badges for various programming languages, including Flutter, Dart, Swift, Kotlin, Python, HTML5, CSS3, JavaScript, Bootstrap, and Node.js.</p>
 <p>Mostly Flutter and Dart are in use for mobile hybryd development with 3-rd party packages. Mmmm, open-source packages . . . 🍩</p>
